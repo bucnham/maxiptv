@@ -1,510 +1,77 @@
 #EXTM3U
-#EXTINF:-1,USA: ABC HD
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/2463.ts
-#EXTINF:-1,USA: ABC Spark
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/13423.ts
-#EXTINF:-1,USA: ABC FAMILY/SPARK
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/2421.ts
-#EXTINF:-1,USA: ABC News SD
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/2422.ts
-#EXTINF:-1,USA: ABC News
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/2462.ts
-#EXTINF:-1,USA: Freeform Channel
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/14658.ts
-#EXTINF:-1,USA: Bounce TV
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/13424.ts
-#EXTINF:-1,USA: USA Network
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4292.ts
-#EXTINF:-1,USA: T.N.T
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4139.ts
-#EXTINF:-1,USA: NBC (EAST)
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/2440.ts
-#EXTINF:-1,USA: FOX NY
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4286.ts
-#EXTINF:-1,USA: Fox News
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/2403.ts
-#EXTINF:-1,USA: CBS HD-US
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4658.ts
-#EXTINF:-1,USA: CBS News
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4141.ts
-#EXTINF:-1,USA: CBSN News
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/2457.ts
-#EXTINF:-1,USA: CW 11 HD
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4291.ts
-#EXTINF:-1,USA: CNN
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/2454.ts
-#EXTINF:-1,USA: CNN HD
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/2406.ts
-#EXTINF:-1,USA: CNN HD INTERNATIONAL
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/2423.ts
-#EXTINF:-1,USA: AMC
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4138.ts
-#EXTINF:-1,USA: TBS
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4143.ts
-#EXTINF:-1,USA: TBS HD
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/2380.ts
-#EXTINF:-1,USA: SPIKE TV
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4142.ts
-#EXTINF:-1,USA: FX HD
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/2401.ts
-#EXTINF:-1,USA: A&E HD
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4707.ts
-#EXTINF:-1,USA: Bravo HD
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/2410.ts
-#EXTINF:-1,USA: Viceland HD
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/14650.ts
-#EXTINF:-1,USA: CNBC HD
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/5163.ts
-#EXTINF:-1,USA: AFN Prime Pacific
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/2416.ts
-#EXTINF:-1,USA: AFN Prime Atlantic
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/2417.ts
-#EXTINF:-1,USA: AFN News
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/2418.ts
-#EXTINF:-1,USA: AFN Movie
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/2419.ts
-#EXTINF:-1,USA: AFN Family Movie
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/2420.ts
-#EXTINF:-1,USA: BET ( B.E.T - Black Entertainment Television )
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/10694.ts
-#EXTINF:-1,USA: BET HER
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/12548.ts
-#EXTINF:-1,USA: Disney Channel HD
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/13421.ts
-#EXTINF:-1,USA: Disney XD HD
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/13422.ts
-#EXTINF:-1,USA: DISNEY JR HD
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/2397.ts
-#EXTINF:-1,USA: Nickelodeon
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4709.ts
-#EXTINF:-1,USA: Cartoon Network HD
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4708.ts
-#EXTINF:-1,USA: Cinemax Moremax
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4713.ts
-#EXTINF:-1,USA: COMEDY CENTRAL
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4725.ts
-#EXTINF:-1,USA: NICK HD (kids)
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/5153.ts
-#EXTINF:-1,USA: NICKTOONS
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/5152.ts
-#EXTINF:-1,USA: PBS Kids
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/20824.ts
-#EXTINF:-1,USA: Toonami Aftermath
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/20826.ts
-#EXTINF:-1,USA: Fuel TV HD
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/20820.ts
-#EXTINF:-1,USA: FXM Retro
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/20821.ts
-#EXTINF:-1,USA: TLC
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/2427.ts
-#EXTINF:-1,USA: FOOD NETWORK
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4705.ts
-#EXTINF:-1,USA: LIFETIME HD
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4680.ts
-#EXTINF:-1,USA: HISTORY HD
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4130.ts
-#EXTINF:-1,USA: DISCOVERY CHANNEL HD
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4129.ts
-#EXTINF:-1,USA: DISCOVERY SCIENCE HD
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4229.ts
-#EXTINF:-1,USA: DISCOVERY VELOCITY
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4714.ts
-#EXTINF:-1,USA: Discovery Investigation HD
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/20815.ts
-#EXTINF:-1,USA: NAT GEO HD
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4144.ts
-#EXTINF:-1,USA: TRAVEL CHANNEL
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4230.ts
-#EXTINF:-1,USA: ANIMAL PLANET
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4227.ts
-#EXTINF:-1,USA: Destination America HD
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/14652.ts
-#EXTINF:-1,USA: MTV HD
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4127.ts
-#EXTINF:-1,USA: MTV LIVE
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/10734.ts
-#EXTINF:-1,USA: MTV U
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/20803.ts
-#EXTINF:-1,USA: VH1 HD
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/5145.ts
-#EXTINF:-1,USA: XITE HD
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/20830.ts
-#EXTINF:-1,USA: XITE Vibe HD
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/20828.ts
-#EXTINF:-1,USA: XITE Rock HD
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/20829.ts
-#EXTINF:-1,USA: Vevo HD
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/20827.ts
-#EXTINF:-1,USA: Music 24
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/20823.ts
-#EXTINF:-1,USA: CMT HD
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/10759.ts
-#EXTINF:-1,USA: CALIFORNIA MUSIC CHANNEL
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/10760.ts
-#EXTINF:-1,USA: Reelz HD
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/14649.ts
-#EXTINF:-1,USA: NFL Now
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4145.ts
-#EXTINF:-1,USA: NFL Network HD
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/2391.ts
-#EXTINF:-1,USA: ESPN 1
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/2618.ts
-#EXTINF:-1,USA: AFN Sports HD
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/2412.ts
-#EXTINF:-1,USA: AFN Sports
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/2414.ts
-#EXTINF:-1,USA: AFN Sports 2
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/2413.ts
-#EXTINF:-1,USA: Tsn-Sport 1 HD
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/2432.ts
-#EXTINF:-1,USA: Tsn-Sport 2 HD
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/2431.ts
-#EXTINF:-1,USA: Tsn-Sport 3 HD
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/2430.ts
-#EXTINF:-1,USA: Tsn-Sport 4 HD
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/2429.ts
-#EXTINF:-1,USA: Tsn-Sport 5 HD
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/2428.ts
-#EXTINF:-1,USA: ESPN
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4140.ts
-#EXTINF:-1,USA: ESPN 2 HD
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4290.ts
-#EXTINF:-1,USA: ESPN 3 TRE
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4681.ts
-#EXTINF:-1,USA: ESPN NEWS
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4724.ts
-#EXTINF:-1,USA: ESPN U HD
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/20817.ts
-#EXTINF:-1,USA: E! Network HD
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4715.ts
-#EXTINF:-1,USA: NBC GOLF
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4719.ts
-#EXTINF:-1,USA: NHL NETWORK
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4723.ts
-#EXTINF:-1,USA: Showtime 2 HD
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/2389.ts
-#EXTINF:-1,USA: Showtime HD
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/2390.ts
-#EXTINF:-1,USA: SportsNet One HD
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/2388.ts
-#EXTINF:-1,USA: Starz Cinema
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/2387.ts
-#EXTINF:-1,USA: Starz Comedy
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/2386.ts
-#EXTINF:-1,USA: Starz East
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/2385.ts
-#EXTINF:-1,USA: Starz Edge HD
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/2384.ts
-#EXTINF:-1,USA: Starz West
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/2381.ts
-#EXTINF:-1,USA: Fight Network / MMA Network
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/2393.ts
-#EXTINF:-1,USA: FOX Sport 1
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/2402.ts
-#EXTINF:-1,USA: FOX SPORTS ONE
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4233.ts
-#EXTINF:-1,USA: GRIT TV MOVIES
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/2383.ts
-#EXTINF:-1,USA: HALLMARK HD
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/2400.ts
-#EXTINF:-1,USA: HBO 2 COMEDY
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/2399.ts
-#EXTINF:-1,USA: HBO HD
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/2447.ts
-#EXTINF:-1,USA: HBO SIGNATURE
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/2398.ts
-#EXTINF:-1,USA: HBO ZONE
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/2445.ts
-#EXTINF:-1,USA: LIFE TIME
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/2396.ts
-#EXTINF:-1,USA: MLB HD
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/2395.ts
-#EXTINF:-1,USA: Versus | NBA
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/2426.ts
-#EXTINF:-1,USA: RT DOCUMENTARY
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4720.ts
-#EXTINF:-1,USA: SYFY HD
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4711.ts
-#EXTINF:-1,USA: TRUE MOVIES
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4722.ts
-#EXTINF:-1,USA: TV SERIES
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4710.ts
-#EXTINF:-1,USA: Big Ten Network HD
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/2411.ts
-#EXTINF:-1,USA: P.B.S Kids
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4682.ts
-#EXTINF:-1,USA: Nursery Rhymes (Baby Songs)
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/6368.ts
-#EXTINF:-1,USA: C Toon Kids
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/3720.ts
-#EXTINF:-1,USA: Cinemax 5 Max
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/5164.ts
-#EXTINF:-1,USA: GSN TV
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/5159.ts
-#EXTINF:-1,USA: HBO Family HD
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/5158.ts
-#EXTINF:-1,USA: BOX OFFICE MOVIES
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/9605.ts
-#EXTINF:-1,USA: FOX DEPORTES HD
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/6359.ts
-#EXTINF:-1,USA: FOX SOCCER PLUS HD
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/6358.ts
-#EXTINF:-1,USA: MSNBC HD
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/6357.ts
-#EXTINF:-1,USA: HGTV HD
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/5157.ts
-#EXTINF:-1,USA: NHLTV NETWORK HD
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/5161.ts
-#EXTINF:-1,USA: NBA TV
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/2449.ts
-#EXTINF:-1,USA: Fight Sport 1
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/2450.ts
-#EXTINF:-1,USA: Starz Encore East
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/2404.ts
-#EXTINF:-1,USA: Starz Encore HD
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/2405.ts
-#EXTINF:-1,USA: Fight Sport 2
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/2453.ts
-#EXTINF:-1,USA: Cinemax East
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/2408.ts
-#EXTINF:-1,USA: Cinemax ActionMax
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/2409.ts
-#EXTINF:-1,USA: CW Channel 11
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/2455.ts
-#EXTINF:-1,USA: C-SPAN 1 HD
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4702.ts
-#EXTINF:-1,USA: C-SPAN 2 HD
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4703.ts
-#EXTINF:-1,USA: C-SPAN 3 HD
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4704.ts
-#EXTINF:-1,USA: The Weather Channel
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4695.ts
-#EXTINF:-1,USA: Cinemax 5 Star Max
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4706.ts
-#EXTINF:-1,USA: BBC WORLD NEWS
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4721.ts
-#EXTINF:-1,USA: LMN HDTV
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/5156.ts
-#EXTINF:-1,USA: NFL Network HDTV 1080i
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/5154.ts
-#EXTINF:-1,USA: OWN HD (Oprah Winfrey TV)
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/5151.ts
-#EXTINF:-1,USA: Showtime Extreme HD
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/5150.ts
-#EXTINF:-1,USA: Showtime Showcase
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/5149.ts
-#EXTINF:-1,USA: TENNIS HD
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/5148.ts
-#EXTINF:-1,USA: TRU TV
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/5147.ts
-#EXTINF:-1,USA: WEATHERNATION
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4691.ts
-#EXTINF:-1,USA: WWE Network
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/2424.ts
-#EXTINF:-1,USA: KIDS READING TV
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4817.ts
-#EXTINF:-1,USA: QVC Beauty IQ
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4824.ts
-#EXTINF:-1,USA: QVC Live
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4823.ts
-#EXTINF:-1,USA: QVC Plus
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4825.ts
-#EXTINF:-1,CA: Sportnet Pacific HD
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4020.ts
-#EXTINF:-1,CA: NBA TV
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4284.ts
-#EXTINF:-1,CA: HBO Canada
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4282.ts
-#EXTINF:-1,CA: HBO 2 Canada
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4281.ts
-#EXTINF:-1,CA: ABC HD
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4285.ts
-#EXTINF:-1,CA: BBC Canada
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/20806.ts
-#EXTINF:-1,CA: BBC Kids
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/20805.ts
-#EXTINF:-1,CA: Cooking Channel
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/20809.ts
-#EXTINF:-1,CA: Family
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/20810.ts
-#EXTINF:-1,CA: Lifetime
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/20811.ts
-#EXTINF:-1,CA: Much
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/20804.ts
-#EXTINF:-1,CA: Tele Quebec
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/20813.ts
-#EXTINF:-1,CA: YTV HD
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4021.ts
-#EXTINF:-1,CA: World Fishing TV
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4022.ts
-#EXTINF:-1,CA : w network
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4023.ts
-#EXTINF:-1,CA: Treehouse
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4025.ts
-#EXTINF:-1,CA: Travel Channel HD
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4026.ts
-#EXTINF:-1,CA: TMN ACTION TV
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4027.ts
-#EXTINF:-1,CA: Teletoon HD
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4028.ts
-#EXTINF:-1,CA: Sportsnet World HD
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4030.ts
-#EXTINF:-1,CA : Sportsnet West HD
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4031.ts
-#EXTINF:-1,CA: Sportsnet One HD
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4032.ts
-#EXTINF:-1,CA: Sportnet Ontario HD
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4034.ts
-#EXTINF:-1,CA: SportsNet 360
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/8898.ts
-#EXTINF:-1,CA: SportsNet East
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/8897.ts
-#EXTINF:-1,CA: Spike HD
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4035.ts
-#EXTINF:-1,CA: Slice
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4036.ts
-#EXTINF:-1,CA: Silver Screen Classics
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4037.ts
-#EXTINF:-1,CA: RDS2 TV
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4040.ts
-#EXTINF:-1,CA : Peachtree HDTV
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4042.ts
-#EXTINF:-1,CA : own (oprah winfrew network)
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4043.ts
-#EXTINF:-1,CA: omni 2
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4044.ts
-#EXTINF:-1,CA: omni 1
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4045.ts
-#EXTINF:-1,CA: Nick
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4047.ts
-#EXTINF:-1,CA: Cartoon Network
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/10836.ts
-#EXTINF:-1,CA: V Montreal
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/14645.ts
-#EXTINF:-1,CA: MTV Canada
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4049.ts
-#EXTINF:-1,CA: MTV 2 Canada
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4283.ts
-#EXTINF:-1,CA : Movietime TV
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4050.ts
-#EXTINF:-1,CA: History
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4054.ts
-#EXTINF:-1,CA: GSN
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4055.ts
-#EXTINF:-1,CA: Golf Channel
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4056.ts
-#EXTINF:-1,CA : tG4 HD
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4057.ts
-#EXTINF:-1,CA: FXX HD
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4059.ts
-#EXTINF:-1,CA: Fox News
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4060.ts
-#EXTINF:-1,CA: Fox 25
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4061.ts
-#EXTINF:-1,CA: E! HD
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4063.ts
-#EXTINF:-1,CA : deja view
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4064.ts
-#EXTINF:-1,CA: CTV Toronto
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4065.ts
-#EXTINF:-1,CA: Country Music Television
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4067.ts
-#EXTINF:-1,CA: Cottage Life
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4068.ts
-#EXTINF:-1,CA : Comedy Gold TV
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4069.ts
-#EXTINF:-1,CA: City TV
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4070.ts
-#EXTINF:-1,CA: CHCH HD
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4071.ts
-#EXTINF:-1,CA: CBC Toronto
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4072.ts
-#EXTINF:-1,CA/USA : CartoonNetwork
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4073.ts
-#EXTINF:-1,CA: Bravo
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4074.ts
-#EXTINF:-1,CA: BET Canada
-http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4076.ts
-
+#EXTM3U
 #EXTINF:-1,USA:BeinSports.usa
-http://novaiptv.info:80/live/Kareem/Dash/5736.ts
+http://novaiptv.info:80/live/abb/abb/5736.ts
 #EXTINF:-1,USA:Astro.Supersport1
-http://novaiptv.info:80/live/Kareem/Dash/5735.ts
+http://novaiptv.info:80/live/abb/abb/5735.ts
 #EXTINF:-1,USA:Astro.Supersport2
-http://novaiptv.info:80/live/Kareem/Dash/5734.ts
+http://novaiptv.info:80/live/abb/abb/5734.ts
 #EXTINF:-1,USA:Astro.Supersport3
-http://novaiptv.info:80/live/Kareem/Dash/5733.ts
+http://novaiptv.info:80/live/abb/abb/5733.ts
 #EXTINF:-1,USA:Astro.Supersport 4
-http://novaiptv.info:80/live/Kareem/Dash/5732.ts
+http://novaiptv.info:80/live/abb/abb/5732.ts
 #EXTINF:-1,USA:AFN.Family
-http://novaiptv.info:80/live/Kareem/Dash/5710.ts
+http://novaiptv.info:80/live/abb/abb/5710.ts
 #EXTINF:-1,USA:AFN.Movie
-http://novaiptv.info:80/live/Kareem/Dash/5711.ts
+http://novaiptv.info:80/live/abb/abb/5711.ts
 #EXTINF:-1,USA:AFN.Prime.Atlantic
-http://novaiptv.info:80/live/Kareem/Dash/5712.ts
+http://novaiptv.info:80/live/abb/abb/5712.ts
 #EXTINF:-1,USA:AFN.Prime.Pacific
-http://novaiptv.info:80/live/Kareem/Dash/5713.ts
+http://novaiptv.info:80/live/abb/abb/5713.ts
 #EXTINF:-1,USA:AMC
-http://novaiptv.info:80/live/Kareem/Dash/5707.ts
-#EXTINF:-
-
-1,USA:Animal.Planet
-http://novaiptv.info:80/live/Kareem/Dash/5701.ts
+http://novaiptv.info:80/live/abb/abb/5707.ts
+#EXTINF:-1,USA:Animal.Planet
+http://novaiptv.info:80/live/abb/abb/5701.ts
 #EXTINF:-1,USA:Bravo
-http://novaiptv.info:80/live/Kareem/Dash/5704.ts
+http://novaiptv.info:80/live/abb/abb/5704.ts
 #EXTINF:-1,USA:Cinemax.East
-http://novaiptv.info:80/live/Kareem/Dash/5709.ts
+http://novaiptv.info:80/live/abb/abb/5709.ts
 #EXTINF:-1,USA:Cinemax.Moremax
-http://novaiptv.info:80/live/Kareem/Dash/5708.ts
+http://novaiptv.info:80/live/abb/abb/5708.ts
 #EXTINF:-1,USA:Discovery
-http://novaiptv.info:80/live/Kareem/Dash/5703.ts
+http://novaiptv.info:80/live/abb/abb/5703.ts
 #EXTINF:-1,USA:Discovery.Science
-http://novaiptv.info:80/live/Kareem/Dash/5702.ts
+http://novaiptv.info:80/live/abb/abb/5702.ts
 #EXTINF:-1,USA:ESPN1
-http://novaiptv.info:80/live/Kareem/Dash/5729.ts
+http://novaiptv.info:80/live/abb/abb/5729.ts
 #EXTINF:-1,USA:ESPN2
-http://novaiptv.info:80/live/Kareem/Dash/5728.ts
+http://novaiptv.info:80/live/abb/abb/5728.ts
 #EXTINF:-1,USA:Fox.Sport1
-http://novaiptv.info:80/live/Kareem/Dash/5731.ts
+http://novaiptv.info:80/live/abb/abb/5731.ts
 #EXTINF:-1,USA:Fox.Sport2
-http://novaiptv.info:80/live/Kareem/Dash/5730.ts
+http://novaiptv.info:80/live/abb/abb/5730.ts
 #EXTINF:-1,USA:Hallmark
-http://novaiptv.info:80/live/Kareem/Dash/5718.ts
+http://novaiptv.info:80/live/abb/abb/5718.ts
 #EXTINF:-1,USA:HBO
-http://novaiptv.info:80/live/Kareem/Dash/5717.ts
+http://novaiptv.info:80/live/abb/abb/5717.ts
 #EXTINF:-1,USA:HBO.Sinature
-http://novaiptv.info:80/live/Kareem/Dash/5715.ts
+http://novaiptv.info:80/live/abb/abb/5715.ts
 #EXTINF:-1,USA:HBO.Zone
-http://novaiptv.info:80/live/Kareem/Dash/5716.ts
+http://novaiptv.info:80/live/abb/abb/5716.ts
 #EXTINF:-1,USA:HBO2.Comedy
-http://novaiptv.info:80/live/Kareem/Dash/5714.ts
+http://novaiptv.info:80/live/abb/abb/5714.ts
 #EXTINF:-1,USA:Lifetime
-http://novaiptv.info:80/live/Kareem/Dash/5705.ts
+http://novaiptv.info:80/live/abb/abb/5705.ts
 #EXTINF:-1,USA:Showtime.Next
-http://novaiptv.info:80/live/Kareem/Dash/5719.ts
+http://novaiptv.info:80/live/abb/abb/5719.ts
 #EXTINF:-1,USA:Showtime.Showcase
-http://novaiptv.info:80/live/Kareem/Dash/5720.ts
+http://novaiptv.info:80/live/abb/abb/5720.ts
 #EXTINF:-1,USA:TNT
-http://novaiptv.info:80/live/Kareem/Dash/5706.ts
-#EXTINF:-
-
-1,USA:TSN1
-http://novaiptv.info:80/live/Kareem/Dash/5727.ts
+http://novaiptv.info:80/live/abb/abb/5706.ts
+#EXTINF:-1,USA:TSN1
+http://novaiptv.info:80/live/abb/abb/5727.ts
 #EXTINF:-1,USA:TSN2
-http://novaiptv.info:80/live/Kareem/Dash/5726.ts
+http://novaiptv.info:80/live/abb/abb/5726.ts
 #EXTINF:-1,USA:TSN3
-http://novaiptv.info:80/live/Kareem/Dash/5725.ts
-#EXTINF:-
-
-1,USA:TSN4
-http://novaiptv.info:80/live/Kareem/Dash/5724.ts
+http://novaiptv.info:80/live/abb/abb/5725.ts
+#EXTINF:-1,USA:TSN4
+http://novaiptv.info:80/live/abb/abb/5724.ts
 #EXTINF:-1,USA:TSN5
-http://novaiptv.info:80/live/Kareem/Dash/5723.ts
+http://novaiptv.info:80/live/abb/abb/5723.ts
 #EXTINF:-1,USA:USA.Network
-http://novaiptv.info:80/live/Kareem/Dash/5721.ts
+http://novaiptv.info:80/live/abb/abb/5721.ts
 #EXTINF:-1,USA:WWE.Network
-http://novaiptv.info:80/live/Kareem/Dash/5722.ts
-
+http://novaiptv.info:80/live/abb/abb/5722.ts
 #EXTINF:-1,USA TSN 1HD
 http://188.93.238.184:8000/live/snet/snet/37793.ts
 #EXTINF:-1,USA TSN 2HD
@@ -515,8 +82,6 @@ http://188.93.238.184:8000/live/snet/snet/37795.ts
 http://188.93.238.184:8000/live/snet/snet/37790.ts
 #EXTINF:-1,USA TSN 5HD
 http://188.93.238.184:8000/live/snet/snet/37791.ts
-#EXTINF:-1,USA SportsNet 360
-http://188.93.238.184:8000/live/snet/snet/37794.ts
 #EXTINF:-1,US CBS Sports
 http://188.93.238.184:8000/live/snet/snet/37815.ts
 #EXTINF:-1,US FOX SPORTS 1 HD
@@ -526,7 +91,80 @@ http://188.93.238.184:8000/live/snet/snet/37811.ts
 #EXTINF:-1,US Sports Net Ontario HD
 http://188.93.238.184:8000/live/snet/snet/37814.ts
 #EXTINF:-1,US Sports Net World HD
-http://188.93.238.184:8000/live/snet/snet/37812.ts#EXTINF:-1,US: CBS 47 NEWS
+http://188.93.238.184:8000/live/snet/snet/37812.ts
+#EXTINF:-1,USA:BeinSports.usa
+http://novaiptv.info:80/live/828282/828282/5736.ts
+#EXTINF:-1,USA:Astro.Supersport1
+http://novaiptv.info:80/live/828282/828282/5735.ts
+#EXTINF:-1,USA:Astro.Supersport2
+http://novaiptv.info:80/live/828282/828282/5734.ts
+#EXTINF:-1,USA:Astro.Supersport3
+http://novaiptv.info:80/live/828282/828282/5733.ts
+#EXTINF:-1,USA:Astro.Supersport 4
+http://novaiptv.info:80/live/828282/828282/5732.ts
+#EXTINF:-1,USA:AFN.Family
+http://novaiptv.info:80/live/828282/828282/5710.ts
+#EXTINF:-1,USA:AFN.Movie
+http://novaiptv.info:80/live/828282/828282/5711.ts
+#EXTINF:-1,USA:AFN.Prime.Atlantic
+http://novaiptv.info:80/live/828282/828282/5712.ts
+#EXTINF:-1,USA:AFN.Prime.Pacific
+http://novaiptv.info:80/live/828282/828282/5713.ts
+#EXTINF:-1,USA:AMC
+http://novaiptv.info:80/live/828282/828282/5707.ts
+#EXTINF:-1,USA:Animal.Planet
+http://novaiptv.info:80/live/828282/828282/5701.ts
+#EXTINF:-1,USA:Bravo
+http://novaiptv.info:80/live/828282/828282/5704.ts
+#EXTINF:-1,USA:Cinemax.East
+http://novaiptv.info:80/live/828282/828282/5709.ts
+#EXTINF:-1,USA:Cinemax.Moremax
+http://novaiptv.info:80/live/828282/828282/5708.ts
+#EXTINF:-1,USA:Discovery
+http://novaiptv.info:80/live/828282/828282/5703.ts
+#EXTINF:-1,USA:Discovery.Science
+http://novaiptv.info:80/live/828282/828282/5702.ts
+#EXTINF:-1,USA:ESPN1
+http://novaiptv.info:80/live/828282/828282/5729.ts
+#EXTINF:-1,USA:ESPN2
+http://novaiptv.info:80/live/828282/828282/5728.ts
+#EXTINF:-1,USA:Fox.Sport1
+http://novaiptv.info:80/live/828282/828282/5731.ts
+#EXTINF:-1,USA:Fox.Sport2
+http://novaiptv.info:80/live/828282/828282/5730.ts
+#EXTINF:-1,USA:Hallmark
+http://novaiptv.info:80/live/828282/828282/5718.ts
+#EXTINF:-1,USA:HBO
+http://novaiptv.info:80/live/828282/828282/5717.ts
+#EXTINF:-1,USA:HBO.Sinature
+http://novaiptv.info:80/live/828282/828282/5715.ts
+#EXTINF:-1,USA:HBO.Zone
+http://novaiptv.info:80/live/828282/828282/5716.ts
+#EXTINF:-1,USA:HBO2.Comedy
+http://novaiptv.info:80/live/828282/828282/5714.ts
+#EXTINF:-1,USA:Lifetime
+http://novaiptv.info:80/live/828282/828282/5705.ts
+#EXTINF:-1,USA:Showtime.Next
+http://novaiptv.info:80/live/828282/828282/5719.ts
+#EXTINF:-1,USA:Showtime.Showcase
+http://novaiptv.info:80/live/828282/828282/5720.ts
+#EXTINF:-1,USA:TNT
+http://novaiptv.info:80/live/828282/828282/5706.ts
+#EXTINF:-1,USA:TSN1
+http://novaiptv.info:80/live/828282/828282/5727.ts
+#EXTINF:-1,USA:TSN2
+http://novaiptv.info:80/live/828282/828282/5726.ts
+#EXTINF:-1,USA:TSN3
+http://novaiptv.info:80/live/828282/828282/5725.ts
+#EXTINF:-1,USA:TSN4
+http://novaiptv.info:80/live/828282/828282/5724.ts
+#EXTINF:-1,USA:TSN5
+http://novaiptv.info:80/live/828282/828282/5723.ts
+#EXTINF:-1,USA:USA.Network
+http://novaiptv.info:80/live/828282/828282/5721.ts
+#EXTINF:-1,USA:WWE.Network
+http://novaiptv.info:80/live/828282/828282/5722.ts
+#EXTINF:-1,US: CBS 47 NEWS
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/7785.ts
 #EXTINF:-1,US: 3 ABN kids
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/9463.ts
@@ -850,7 +488,3 @@ http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/9984.ts
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/7806.ts
 #EXTINF:-1,US: WCCB NEWS
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/7807.ts
-#EXTINF:-1,ASIA XXX 1
-http://69.46.75.107/files/videos/140747456300c03.flv
-#EXTINF:-1,ASIA XXX 2
-http://69.46.75.107/files/videos/1410962219b8929.flv
